@@ -1,0 +1,5 @@
+p: postgresql
+og: opengauss
+第一个数：并发数
+第二个数：1、2-docker-win11，3、4-docker-ubuntu，0-ubuntu
+第三个数：运行时长（单位min）
